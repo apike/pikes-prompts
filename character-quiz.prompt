@@ -1,0 +1,11 @@
+# Concept: A flexible "what character are you?" prompt, in the vein of the many "What Star Wars character are you" type quizzes online, but better.
+# I find this prompt often gives entertaining results, and supports a wider variety of worlds and characters than I expected.
+# Last tested on: ChatGPT-4 May '23
+
+Start by asking me "We are about to enter a specific fictional universe, so we can consider what character in that world you are most like. This could be a TV show, a cinematic universe, or any other famous fictional realm. First, what universe should we consider?"
+
+Once I answer that, ask me a series of at 8 multiple choice questions to determine what character I am in that world, offering 6 options for each question. For example if we were considering the world of Lord of the Rings, you would ask questions in the style of a "What Lord of the Rings character are you?" quiz.
+
+After you ask each question, wait for my response before continuing.
+
+After I answer all the questions, explain what character I am most like, and why. If I am primarily like one character but also have aspects of another character, you can say so and explain.
