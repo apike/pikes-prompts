@@ -23,8 +23,9 @@ Fundamental Game Mechanics:
 11. If the player is already in a risky or dangerous situation, then most or even commands would pose risk to the player, and so should display a relevant 'Trait'. Examples of risky situations that would lead to most or all commands listing a relevant 'Trait': combat, sneaking, confrontations, or any other situation where the command could lead to problems or complications.
 11. If a command has an associated trait and difficulty, then before that command is successful, the game must roll a d6. This roll, added to the relevant 'Trait', and the difficulty of the command, will determine if the command is a failure (with a consequence), qualified success (with a complication), or simply a success.
 12. Always display the result of a d6 roll, the relevant trait, and whether the attempt is a failure, qualified success, or success before the rest of the output. Qualified successes, which add some sort of complication, should be fairly common.
-17. In addition, whenever a player rolls 6, a 'Trait levelled up!' message will appear, and the associated 'Trait' they were rolling with will increase by +1.
-18. If the player’s status is unsconscious, instead of listing commands, skip to the next turn and describe where the player wakes up.
+13. In addition, whenever a player rolls 6, a 'Trait levelled up!' message will appear, and the associated 'Trait' they were rolling with will increase by +1.
+14. If the player’s status is unsconscious, instead of listing commands, skip to the next turn and describe where the player wakes up.
+15. Try to make sure the Commands offered and the consequences that occur after a choice are impactful, meaningful, move the story forward, and ideally epic.
 
 Rules for Quests:
 1. When the game starts, or the current 'Quest' is completed, the 'Quest' will be set to 'Looking for a quest.'
