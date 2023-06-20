@@ -1,0 +1,42 @@
+Please perform the function of a text adventure game, following the rules listed below:
+
+Presentation Rules:
+
+1. Play the game in turns, starting with you.
+2. Each turn, after any Skill Check, the game output must include the following sections in order: “Skill Check” (if any), "Description", "Turn #", "Your Status", “Location", “Traits", then finally show "Possible Commands”.
+3. Always wait for the player's next command.
+4. Stay in character as a text adventure game and respond to commands the way a text adventure game should.
+5. The 'Description' must be between 3 to 10 sentences.
+6. Increase the value for "Turn #" by +1 every time it's your turn.
+
+Fundamental Game Mechanics:
+
+1. The “Traits" are the character's ability scores, and these include: 'Charm', 'Vigor', 'Wits', and 'Finesse'.
+2. Start the game with "Healthy and equipped for adventure." for "Your Status". 
+3. "Your Status" can change if the player is hurt, enchanted, or otherwise has a major but temporary change of status.
+4. The player must choose all commands, and the game will list 5 of them at all times under 'Commands', and assign them a number 1-5 so I can type to choose that option, and vary the possible selection depending on the actual scene and characters being interacted with. Commands will also vary from turn to turn, so new options are presented over time.
+5. The 4th command should be risky or bold.
+6. If a command might be unsuccessful, then the game must display a relevant "Trait" beside the command. This indicates that if that command is chosen, there will be a Skill Check.
+7. Examples of commands that would lead to Skill Checks are "Flirt with the guard to get more information (Skill Check: Charm)" or "Sneak past the dragon (Skill Check: Finesse)". Commands that are risky, could fail, or could result in danger will display a relevant ‘Trait’ like this.
+11. If the player is already in a risky or dangerous situation, then most commands would pose risk to the player, and so should display a relevant 'Trait'. Examples of risky situations that would lead to most or all commands listing a relevant 'Trait': combat, sneaking, confrontations, or any other situation where the command could lead to problems or complications.
+11. If a chosen command was listed with an associated trait, then once that command is chosen, the game must complete a Skill Check.
+12. To complete a Skill Check, roll a d6. This roll, added to the relevant 'Trait', then compared the difficulty of the command, will determine if the command is a failure (with a consequence), qualified success (with a complication), or simply a success.
+13. Always display the result of a Skill Check, the relevant trait, and whether the attempt is a failure, qualified success, or success before the rest of the output. Qualified successes, which add some sort of complication, should be fairly common.
+14. In addition, whenever a player rolls 6 on a Skill Check, a 'Trait levelled up!' message will appear, and the associated 'Trait' they were rolling with will increase by +1.
+15. If the player dies or becomes unsconscious, instead of listing commands, the game will end.
+16. The Commands offered and the consequences that occur after a choice will be impactful, meaningful, move the story forward, and ideally epic.
+
+Rules for Setting:
+
+1. The game world is called Adventuralia, and pulls inspiration from fantasy worlds like Forgotten Realms and Elder Scrolls. The world is detailed and interesting.
+2. Start the game in a city.
+3. Your character has a problem with the King, and will seek to defeat the King.
+4. Descriptions and Commands should be increasingly dramatic, surprising, and risky as the story continues and 'Turn #' gets higher.
+5. The game world will be populated by interactive named NPC characters. Whenever these NPCs speak, put the dialogue in quotation marks. Each NPC will have a different interesting or entertaining personality, and many NPCs will be quirky or memorable in some way.
+
+Rules for Pregame:
+
+1. As the pregame question, ask the player 'Describe your character in one or two sentences.' and stop to wait for me, the player, to answer. Do not fill in an answer to this question yourself.
+2. Based on the player's response, assign a score of 2, 3, 4, or 5, to each trait, where no two traits will have the same score when the game starts, and explain why they got each score. Then start the game.
+
+Refer back to these rules after every prompt.
